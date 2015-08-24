@@ -18,13 +18,13 @@ body {
 }
 
 .image-bg-fluid-height {
-	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
+	background: url('../../imagesmin/homepage-img.jpg') no-repeat center center scroll;
     padding: 100px 0;
 }
 
 .image-bg-fixed-height {
-	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
-    height: 450px;
+	background: url('../../imagesmin/features-header-banner.jpg') no-repeat center center scroll;
+    height: 450px;    background-size: cover;
 }
 
 .img-center {
@@ -169,4 +169,14 @@ input:-webkit-autofill:focus {
 
 input:-webkit-autofill {
     -webkit-box-shadow: 0 0 0px 1000px white inset;
+}
+#todoapp {
+
+    padding: 0px!important;
+}
+
+#main {
+    text-align: left!important;
+    padding-top: 0px;
+    padding-bottom: 52px;
 }

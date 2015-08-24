@@ -33,7 +33,7 @@ gulp.task('jshint', function() {
 // minify new images
 gulp.task('imagemin', function() {
   var imgSrc = './assets/images/**/*',
-      imgDst = './assets/images/min/';
+      imgDst = './assets/imagesmin/';
 
   gulp.src(imgSrc)
     .pipe(changed(imgDst))

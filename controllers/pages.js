@@ -8,9 +8,9 @@ exports.index = {
         if (request.auth.isAuthenticated) {
             // The user is already logged in, redirect it to the hideout
            var data =
-        ' <html><head><meta charSet="utf-8"></meta><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"></meta><title>Todo App</title>'+
-       '  <link href="css/bootstrap.min.css" rel="stylesheet"></link>'+
-      '  <link href="css/full-width-pics.css" rel="stylesheet"></link>'+
+        ' <html><head><meta charSet="utf-8"></meta><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"></meta><title>Taskworld - Testwork Roland Wagner</title>'+
+       
+      '  <link href="css/min/full-width-pics.css" rel="stylesheet"></link>'+
      ' </head>'+
      ' <body >'+
      ' <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">' +
@@ -80,9 +80,9 @@ exports.index = {
         }
 
         var data =
-        ' <html><head><meta charSet="utf-8"></meta><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"></meta><title>Todo App</title>'+
-       '  <link href="css/bootstrap.min.css" rel="stylesheet"></link>'+
-      '  <link href="css/full-width-pics.css" rel="stylesheet"></link>'+
+        ' <html><head><meta charSet="utf-8"></meta><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"></meta><title>Taskworld - Testwork Roland Wagner</title>'+
+     
+      '  <link href="css/min/full-width-pics.css" rel="stylesheet"></link>'+
      ' </head>'+
      ' <body >'+
      ' <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">' +
@@ -168,9 +168,9 @@ exports.login = {
         }
 
         var form =
-         ' <html><head><meta charSet="utf-8"></meta><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"></meta><title>Todo App</title>'+
-   '  <link href="css/bootstrap.min.css" rel="stylesheet"></link>'+
-      '  <link href="css/full-width-pics.css" rel="stylesheet"></link>'+
+         ' <html><head><meta charSet="utf-8"></meta><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"></meta><title>Taskworld - Testwork Roland Wagner</title>'+
+
+      '  <link href="css/min/full-width-pics.css" rel="stylesheet"></link>'+
      ' </head>'+
      ' <body >'+
      ' <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">' +
@@ -257,9 +257,9 @@ exports.register = {
         }
 
         var form =
-             ' <html><head><meta charSet="utf-8"></meta><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"></meta><title>Todo App</title>'+
-   '  <link href="css/bootstrap.min.css" rel="stylesheet"></link>'+
-      '  <link href="css/full-width-pics.css" rel="stylesheet"></link>'+
+             ' <html><head><meta charSet="utf-8"></meta><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"></meta><title>Taskworld - Testwork Roland Wagner</title>'+
+   
+      '  <link href="css/min/full-width-pics.css" rel="stylesheet"></link>'+
 
      ' </head>'+
      ' <body >'+
@@ -341,9 +341,9 @@ exports.secret = {
     auth: 'session',
     handler: function (request, reply) {
         var data =
-            ' <html><head><meta charSet="utf-8"></meta><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"></meta><title>Todo App</title>'+
-       '  <link href="css/bootstrap.min.css" rel="stylesheet"></link>'+
-      '  <link href="css/full-width-pics.css" rel="stylesheet"></link>'+
+            ' <html><head><meta charSet="utf-8"></meta><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"></meta><title>Taskworld - Testwork Roland Wagner</title>'+
+     
+
        '  <link href="css/min/main.css" rel="stylesheet"></link>'+
      ' </head>'+
      ' <body >'+

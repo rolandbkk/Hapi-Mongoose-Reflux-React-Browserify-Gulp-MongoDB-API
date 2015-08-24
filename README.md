@@ -5,7 +5,7 @@ Web App based on:
 -  <https://github.com/Kevin-A/AuthProject-x/>
 -  <https://github.com/reflux/refluxjs-todo-x/>
 
-Start localhost with http://localhost:3000/
+Start localhost (http://localhost:3000/):
 ```
 Run gulp 
 ```

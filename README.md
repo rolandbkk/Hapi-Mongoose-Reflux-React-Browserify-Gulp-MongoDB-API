@@ -1,5 +1,5 @@
-# taskworld-test
-Node + Hapi + Mongoose + Reflux + React + Browserify + Gulp + MongoDB API
+# Node + Hapi + Mongoose + Reflux + React + Browserify + Gulp + MongoDB API
+
 
 Web App based on:
 -  <https://github.com/Kevin-A/AuthProject-x/>
